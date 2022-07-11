@@ -1,8 +1,6 @@
-# nft_marketplace_mintify
-
 <h1 align="center">Mintify</h1>
 
-<h2 align="center"><a  href="#" target = "_blank">Посмотреть ДЕМО (в разработке)</a></h2>
+<h2 align="center"><a  href="https://bund322.github.io/nft_marketplace_mintify/" target = "_blank">Посмотреть ДЕМО</a></h2>
 
 ## Описание
 
@@ -12,9 +10,6 @@
 
 Сайт магазина NFT, реализован с нуля на html + css + JS(JQuery).
 
-## О проекте
-
-Раздел в разработке
 
 ## Развитие
 
